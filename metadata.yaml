@@ -1,0 +1,32 @@
+_repo: The-House-of-Defence-v.-1_45800
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45800-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Benson, E. F. (Edward Frederic)
+    aliases:
+    - Benson, Edward F. (Edward Frederic)
+    - Benson, Edward Frederic
+    birthdate: 1867
+    deathdate: 1940
+    gutenberg_agent_id: '812'
+    url: http://www.gutenberg.org/2009/agents/812
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Frederic_Benson
+description: ''
+gutenberg_issued: '2014-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45800'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spiritual healing -- Fiction'
+- !lcsh 'England -- Social life and customs -- Fiction'
+- !lcsh 'Christian Science -- Fiction'
+- !lcc 'PR'
+title: The House of Defence v. 1
+url: http://www.gutenberg.org/ebooks/45800
